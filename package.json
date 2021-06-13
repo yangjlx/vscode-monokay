@@ -1,8 +1,14 @@
 {
-    "name": "vscode-theme",
-    "displayName": "vscode-theme",
-    "description": "This is a vsocde theme",
+    "name": "monokay-theme",
+    "displayName": "Monokay",
+    "description": "This is a custom vscode theme",
     "version": "0.0.1",
+    "publisher": "yangjlx",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yangjlx/vscode-theme.git"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -12,10 +18,11 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Modified",
+                "label": "Monokay",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Modified-color-theme.json"
+                "path": "./themes/Monokay color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }
