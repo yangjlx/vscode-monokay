@@ -1,0 +1,21 @@
+{
+    "name": "vscode-theme",
+    "displayName": "vscode-theme",
+    "description": "This is a vsocde theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Modified",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Modified-color-theme.json"
+            }
+        ]
+    }
+}
