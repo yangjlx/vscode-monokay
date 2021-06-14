@@ -147,7 +147,7 @@
 			"support.class"
 		  ],
 		  "settings": {
-			"foreground": "#61afef"
+			"foreground": "#af8cdd"
 		  }
 		},
 		{
@@ -181,7 +181,7 @@
 		  "name": "Inherited Class",
 		  "scope": "entity.other.inherited-class",
 		  "settings": {
-			"foreground": "#98c379"
+			"foreground": "#78a55a"
 		  }
 		},
 		{
