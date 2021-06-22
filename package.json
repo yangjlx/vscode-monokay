@@ -2,7 +2,7 @@
     "name": "monokay-theme",
     "displayName": "Monokay",
     "description": "This is a Monokai-based custom vscode theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "yangjlx",
     "license": "MIT",
     "repository": {
