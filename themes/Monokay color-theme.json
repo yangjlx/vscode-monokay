@@ -51,7 +51,7 @@
 		  "name": "Number",
 		  "scope": "constant.numeric",
 		  "settings": {
-			"foreground": "#8194e7"
+			"foreground": "#caa560"
 		  }
 		},
 		{
@@ -103,7 +103,7 @@
 		  "name": "Language Variable",
 		  "scope": "variable.language",
 		  "settings": {
-			"foreground": "#e06c75"
+			"foreground": "#c38e9e"
 		  }
 		},
 		{
@@ -121,7 +121,7 @@
 		  "name": "Keyword Operator",
 		  "scope": "keyword.operator",
 		  "settings": {
-			"foreground": "#e06c75"
+			"foreground": "#7290e2"
 		  }
 		},
 		{

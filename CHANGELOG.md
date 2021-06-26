@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.8 | 2021-06-26
+- unify the color of some properties
+
 ## 0.0.5 | 2021-06-22
 - delete the useless theme property
 - modify python decorator color
