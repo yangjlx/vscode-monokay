@@ -121,7 +121,7 @@
 		  "name": "Keyword Operator",
 		  "scope": "keyword.operator",
 		  "settings": {
-			"foreground": "#9fa0a3"
+			"foreground": "#abb2bf"
 		  }
 		},
 		{
