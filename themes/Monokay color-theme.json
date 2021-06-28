@@ -96,7 +96,7 @@
 			"constant.other"
 		  ],
 		  "settings": {
-			"foreground": "#98c379"
+			"foreground": "#56B6C2"
 		  }
 		},
 		{
@@ -121,7 +121,7 @@
 		  "name": "Keyword Operator",
 		  "scope": "keyword.operator",
 		  "settings": {
-			"foreground": "#7290e2"
+			"foreground": "#9fa0a3"
 		  }
 		},
 		{
@@ -182,7 +182,7 @@
 		  "name": "Inherited Class",
 		  "scope": "entity.other.inherited-class",
 		  "settings": {
-			"foreground": "#78a55a"
+			"foreground": "#af8cdd"
 		  }
 		},
 		{
@@ -537,7 +537,21 @@
 			"settings": {
 			  "foreground": "#af8cdd"
 			}
-		  }
+		},
+		{
+			"name":"Python xxx.func",
+			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#75a4e2"
+			}
+		},
+		{
+			"name": "Python func.call.parameter",
+			"scope": "variable.parameter.function-call.python",
+			"settings": {
+				"fontStyle": ""
+			}
+		}
 	  ],
 	"colors": {
 	  "activityBar.background": "#282c34",

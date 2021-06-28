@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.9 | 2021-06-28
+- optimize some color
+
 ## 0.0.8 | 2021-06-26
 - unify the color of some properties
 
