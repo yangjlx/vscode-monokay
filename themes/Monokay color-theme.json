@@ -136,6 +136,7 @@
 		  "scope": "storage.type",
 		  "settings": {
 			"foreground": "#56b6c2"
+			// "fontStyle": "italic"
 		  }
 		},
 		{
@@ -213,7 +214,6 @@
 			"parameter.variable"
 		  ],
 		  "settings": {
-			"fontStyle": "italic",
 			"foreground": "#c38e9e"
 		  }
 		},
@@ -550,6 +550,13 @@
 			"scope": "variable.parameter.function-call.python",
 			"settings": {
 				"fontStyle": ""
+			}
+		},
+		{
+			"name": "",
+			"scope": "support.type.metaclass.python",
+			"settings": {
+				"foreground": "#c38e9e"
 			}
 		}
 	  ],
