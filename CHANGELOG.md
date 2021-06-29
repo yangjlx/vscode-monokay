@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.10 | 2021-06-29
+- optimize some color
+
 ## 0.0.9 | 2021-06-28
 - optimize some color
 

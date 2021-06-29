@@ -553,7 +553,7 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Python metaclass parameter",
 			"scope": "support.type.metaclass.python",
 			"settings": {
 				"foreground": "#c38e9e"
@@ -688,6 +688,7 @@
 	  "titleBar.inactiveBackground": "#21252b",
 	  "titleBar.inactiveForeground": "#6b717d",
 	  "walkThrough.embeddedEditorBackground": "#2e3440",
-	  "welcomePage.buttonHoverBackground": "#404754"
+	  "welcomePage.buttonHoverBackground": "#404754",
+	  "peekView.border": "#282c34"
 	}
   }
