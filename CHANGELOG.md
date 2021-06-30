@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.1 | 2021-06-30
+- modify the color of HoverWidget.border
+
 ## 0.1.0 | 2021-06-29
 - modify some color
 
